@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About These"
-description: "坚持每周写两篇" 
+description: "写给我的妹妹" 
 header-img: "img/green.jpg"
 ---
 
-写给我的妹妹！
+坚持每周写两篇！
 
 
 
