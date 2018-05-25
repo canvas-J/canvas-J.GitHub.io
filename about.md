@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About These"
+title: "About"
 description: "写给我的妹妹" 
 header-img: "img/green.jpg"
 ---
