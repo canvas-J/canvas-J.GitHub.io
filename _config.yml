@@ -1,16 +1,16 @@
 # Site settings
-title: biu哩个biu # 你的博客名字，可以定义修订
+title: 任正非讲话文摘 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "献给我的妹妹"  # 一句话描述你的博客
+description: "在不同阶段思考和借鉴任总的思想"  # 一句话描述你的博客
 baseurl: ""
 url: "https://canvas-j.github.io"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
   name: "熊孩子" # 填写作者信息：名字
-  email: jaga_main@163.com# 填写作者信息：邮箱
-  bio: "坚持一周两篇，加油！" # 填写作者信息：博客描述
+  email: 1341281680@qq.com# 填写作者信息：邮箱
+  bio: "拥抱技术，挣脱蒙昧！" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
