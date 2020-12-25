@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "站在高处的人总有值得学习的闪光点" 
-header-img: "img/green.jpg"
+header-img: "img/zhihu.jpg"
 ---
 
 
