@@ -2,7 +2,7 @@
 title: 好奇心飞行指南 # 你的博客名字，可以定义修订
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "毕业后，时间越来越快！因为我们的日子几乎一成不变，渐渐感觉就只关注眼前了！枯燥的上班生活，让我们一点点变得没有味道，没有特点，没有快乐！紧接着就变得佛系起来：躺平不舒服么？但人生是可以纷繁多样的啊！哪怕只是为了看水怎么流，太阳怎么升起呢？愿每个人都能保护好自己的好奇心，让它能像飞行器一样，自由畅翔于宇宙任意角落！"  # 一句话描述你的博客
+description: "你存在，你好奇，所以你很有劲！"  # 一句话描述你的博客
 baseurl: ""
 url: "https://canvas-j.github.io"  # 此处填写你的博客地址 
 
@@ -10,11 +10,11 @@ url: "https://canvas-j.github.io"  # 此处填写你的博客地址
 owner: 
   name: "金刚" # 填写作者信息：名字
   email: willcarry.f@qq.com# 填写作者信息：邮箱
-  bio: "过程就是奖励，旅途就是回报，行动就是答案" # 填写作者信息：博客描述
+  bio: "过程就是奖励，旅途就是回报，行动就是答案！" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/dolphin.gif # 浏览器地址栏小图标，可自定义更改
-favicon: img/dolphin.gif # 浏览器地址栏小图标，可自定义更改
+gavatar: img/site.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/site.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
